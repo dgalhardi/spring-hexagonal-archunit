@@ -6,7 +6,7 @@ import com.tngtech.archunit.lang.ArchRule;
 
 import static com.tngtech.archunit.library.Architectures.onionArchitecture;
 
-@AnalyzeClasses(packages = "com.aitorleria.springhexagonal.modules")
+@AnalyzeClasses(packages = "com.diegowsu.springhexagonal.modules")
 public class HexagonalArchitectureTest {
 
     @ArchTest
