@@ -1,1 +1,1 @@
-# A study case about the Acrhiunit in a Hexagonal Architecture
+# A study case about the Arch Unit in a Hexagonal Architecture

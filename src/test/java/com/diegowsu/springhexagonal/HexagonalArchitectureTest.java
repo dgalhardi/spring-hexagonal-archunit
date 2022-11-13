@@ -14,6 +14,6 @@ public class HexagonalArchitectureTest {
             .domainModels("..domain.model..")
             .domainServices("..domain.service..")
             .applicationServices("..application..")
-            .adapter("rest", "..adapter.in..")
-            .adapter("persistence", "..adapter.out..");
+            .adapter("rest", "..adapter.inbound..")
+            .adapter("persistence", "..adapter.outbound..");
 }
